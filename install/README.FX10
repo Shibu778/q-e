@@ -1,4 +1,4 @@
-The following is tha "make.inc" file for Fujitsu FX10, a commercial version
+The following is the "make.inc" file for Fujitsu FX10, a commercial version
 of the "K" supercomputer. Mitsuaki Kawamura, March 2017
 
 # make.inc.  Generated from make.inc.in by configure.
